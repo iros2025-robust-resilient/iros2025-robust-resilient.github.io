@@ -12,8 +12,10 @@ The workshop aims to bridge the gap between AI-driven robotics research and robo
 
 # Invited speakers
 
-* Mohan Sridharan (School of Informatics at the University of Edinburgh, UK): **Back to the Future of Integrated Robot Systems: Robustness, Rationality, and Explainable Agency**
-* Karinne Ramirez Amaro (Chalmers University of Technology, Sweden): **Combining Interpretable and Explainable Methods in Robot Decision-Making**
-* Sebastian Elbaum (University of Virginia, USA): **Training AI-Enabled Robots Towards Safety**
+* [Mohan Sridharan](https://homepages.inf.ed.ac.uk/msridhar) (School of Informatics at the University of Edinburgh, UK): **Back to the Future of Integrated Robot Systems: Robustness, Rationality, and Explainable Agency**
+* [Karinne Ramirez-Amaro](https://www.chalmers.se/en/persons/karinne) (Chalmers University of Technology, Sweden): **Combining Interpretable and Explainable Methods in Robot Decision-Making**
+* [Sebastian Elbaum](https://www.cs.virginia.edu/~se4ja) (University of Virginia, USA): **Training AI-Enabled Robots Towards Safety**
+* [Chris Poskitt](https://cposkitt.github.io) (Singapore Management University, Singapore): **Runtime Safety for AI-Enabled Systems**
+* [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy) (Carnegie Mellon University, USA): **Towards Open World Robot Safety**
 
 # Organizers
